@@ -1,0 +1,79 @@
+
+.container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  background-color: #e8effc
+  
+}
+
+.inputCard{
+  border-radius: 10px;
+  margin-top: -50px;
+  width: 100%;
+  border-style:solid;
+  border-width:1px;
+  border-color: white;
+  box-shadow:5px 5px 10px gray; 
+  background-color: white;
+
+ 
+}
+
+.inputContent{
+
+  margin-top: 100px;
+  margin-left: 20px;
+  margin-right: 20px;
+  border-style:solid;
+  justify-content: center; 
+  border-width:1px;
+  border-color: white;
+  background-color: #ffffff
+}
+
+.rowContent{
+
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+ 
+}
+
+.year{
+
+  margin-top: 18px;
+  margin-left: 10px;
+  margin-right: 10px;
+ 
+}
+
+
+.button{
+	border-radius: 10px;
+	margin-top: 50px;
+	margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 30px;
+    box-shadow:5px 5px 10px gray; 
+ 
+}
+
+.formDiv {
+  
+  width: 400px;
+  padding: 30px;
+  border-radius: 10px;
+  -webkit-box-shadow: -1px 8px 15px 0px rgba(0, 0, 0, 0.44);
+  -moz-box-shadow: -1px 8px 15px 0px rgba(0, 0, 0, 0.44);
+  box-shadow: -1px 8px 15px 0px rgba(0, 0, 0, 0.44);
+}
+
+.alert {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.creditCard{
+    margin-bottom: 10%;
+}
